@@ -1,6 +1,6 @@
 # Modulo_3_MartaGomez
 
-# Please, find below a resume of the different documents/files that you can find in this repository. 
+### Please, find below a resume of the different documents/files that you can find in this repository. 
 
 1. Original CSV --> Here you can find the two files with the raw data. This information was providede by the customer. 
   1.1. Customer Flight Activity : This file has information about customer's flight activity. 
